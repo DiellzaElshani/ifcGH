@@ -62,3 +62,35 @@ E:\Github Repos\ifcGH\T-Rex\obj\Debug\T_Rex.csproj.CoreCompileInputs.cache
 E:\Github Repos\ifcGH\T-Rex\obj\Debug\T_Rex.csproj.CopyComplete
 E:\Github Repos\ifcGH\T-Rex\obj\Debug\T-Rex.dll
 E:\Github Repos\ifcGH\T-Rex\obj\Debug\T-Rex.pdb
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\T-Rex.dll
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\T-Rex.pdb
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\T-RexEngine.dll
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.Ifc.dll
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.Ifc4.dll
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.Common.dll
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.IO.MemoryModel.dll
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.Ifc2x3.dll
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Microsoft.Extensions.Logging.dll
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\T-RexEngine.pdb
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.Ifc.pdb
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.Ifc.xml
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.Ifc4.pdb
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.Ifc4.xml
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.Common.pdb
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.Common.xml
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.IO.MemoryModel.pdb
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.IO.MemoryModel.xml
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.Ifc2x3.pdb
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Xbim.Ifc2x3.xml
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Microsoft.Extensions.Logging.xml
+C:\Users\diels\source\repos\ifcGH\T-Rex\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\diels\source\repos\ifcGH\T-Rex\obj\Debug\T_Rex.csproj.AssemblyReference.cache
+C:\Users\diels\source\repos\ifcGH\T-Rex\obj\Debug\T_Rex.Properties.Resources.resources
+C:\Users\diels\source\repos\ifcGH\T-Rex\obj\Debug\T_Rex.csproj.GenerateResource.cache
+C:\Users\diels\source\repos\ifcGH\T-Rex\obj\Debug\T_Rex.csproj.CoreCompileInputs.cache
+C:\Users\diels\source\repos\ifcGH\T-Rex\obj\Debug\T_Rex.csproj.CopyComplete
+C:\Users\diels\source\repos\ifcGH\T-Rex\obj\Debug\T-Rex.dll
+C:\Users\diels\source\repos\ifcGH\T-Rex\obj\Debug\T-Rex.pdb

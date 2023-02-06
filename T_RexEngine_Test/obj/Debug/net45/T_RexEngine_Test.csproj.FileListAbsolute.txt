@@ -90,3 +90,5 @@ E:\Github Repos\ifcGH\T_RexEngine_Test\obj\Debug\net45\T_RexEngine_Test.csproj.C
 E:\Github Repos\ifcGH\T_RexEngine_Test\obj\Debug\net45\T_RexEngine_Test.csproj.CopyComplete
 E:\Github Repos\ifcGH\T_RexEngine_Test\obj\Debug\net45\T_RexEngine_Test.dll
 E:\Github Repos\ifcGH\T_RexEngine_Test\obj\Debug\net45\T_RexEngine_Test.pdb
+C:\Users\diels\source\repos\ifcGH\T_RexEngine_Test\obj\Debug\net45\T_RexEngine_Test.dll
+C:\Users\diels\source\repos\ifcGH\T_RexEngine_Test\obj\Debug\net45\T_RexEngine_Test.pdb
